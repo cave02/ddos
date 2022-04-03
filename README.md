@@ -2,13 +2,13 @@
 # Dos!
 ================
 _______________
-#instalacion:
+# instalacion:
 git clone https://github.com/cave02/ddos
 Listo
 _______________
-#Uso :
+# Uso :
 python3 bomba.py
-#o
+# o
 python bomba.py
 ================
 
